@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **zgjunior@outlook.com**
 
-- ⚡ Fun fact **I'm toxic like Python 😂**
+- ⚡ Fun fact **I forked a [potato](https://github.com/zplusfour/Potato)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
