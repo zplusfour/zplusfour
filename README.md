@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://dev.to/zdev1official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zdev1official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zdev1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zdev1" height="30" width="40" /></a>
+<a href="https://repl.it/@zplusfour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg" alt="zplusfour" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
