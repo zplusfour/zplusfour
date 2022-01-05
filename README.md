@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Aardvark](https://github.com/zplusfour/ADK)
 
-- 🌱 I’m currently learning **Rust**\
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Node.js, TypeScript, Python, Golang**
 
